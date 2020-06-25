@@ -6,3 +6,5 @@ def Artist
   end
 
 end
+
+artist = Artist.new
